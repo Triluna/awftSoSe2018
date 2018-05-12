@@ -1,8 +1,8 @@
-#awftSoSe2018
-##Members
+# awftSoSe2018
+## Members
 - Svenja Charlotte Bednarczyk
 - Danny Giusa 
 - Marianne Weidlich
-##Presentation
+## Presentation
 - https://prezi.com/view/lt8w8ObaLWlPaGmRWn2F/
 
