@@ -37,7 +37,7 @@ class App extends Component {
 
 export default App;
 
-// Simple page without any controll elements
+// Simple page with own component and no controll element
 // import React, { Component } from 'react';
 // import logo from './logo.svg';
 // import './App.css';
