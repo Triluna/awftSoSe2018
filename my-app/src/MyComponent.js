@@ -4,6 +4,7 @@ const MyComponent = (props) => (
     <div>Hello {props.name}!</div>
 );
 
+//Defining own class with render() function
 // class MyComponent extends Component {
 //   render() {
 //     return (
