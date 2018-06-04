@@ -26,8 +26,8 @@ class App extends Component {
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome to React</h2>
-          <MyComponent name="Aktuelle Webtechnologien: Frameworks und Tools (SoSe18)" />
         </div>
+          <p>MyComponent</p>
           <ul className="list-group">
               <li className="list-group-item">
                   <div>Post1</div>
