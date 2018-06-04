@@ -5,12 +5,12 @@ const MyComponent = (props) => (
 );
 
 //Defining own class with render() function
-// class MyComponent extends Component {
-//   render() {
-//     return (
-//        <div>Hello World! from MyComponent :)</div>
-//     )
-//   }
-// };
+ class MyComponent extends Component {
+   render() {
+     return (
+        <div>Hello World! from MyComponent :)</div>
+     )
+   }
+ };
 
 export default MyComponent;
